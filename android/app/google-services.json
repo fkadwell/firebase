@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96189604695",
+    "project_id": "fkadwell-test2",
+    "storage_bucket": "fkadwell-test2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96189604695:android:4d789e7d19f458bd951412",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-rkLUOjPQzzuMTU9Z1nSCasPZ2jJJwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
